@@ -1,0 +1,27 @@
+{
+  "title": "CLVR Cloud Training",
+  "description": "Demo",
+  "courses": [
+    {
+      "pathway_id": "cristian04/clvr-intro-kubernetes",
+      "id": "kubecost-scenario",
+      "course_id": "kubecost-scenario",
+      "title": "Kubecost",
+      "description": "Kubecost"
+    },
+    {
+      "pathway_id": "cristian04/clvr-intro-kubernetes",
+      "id": "grafana-scenario",
+      "course_id": "grafana-scenario",
+      "title": "Using Grafana",
+      "description": "Using Grafana"
+    },
+    {
+      "pathway_id": "cristian04/clvr-intro-kubernetes",
+      "id": "helm-scenario",
+      "course_id": "helm-scenario",
+      "title": "Using Helm",
+      "description": "helm package manager"
+    }
+  ]
+}

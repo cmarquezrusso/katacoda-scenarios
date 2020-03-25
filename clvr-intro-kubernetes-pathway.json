@@ -1,0 +1,21 @@
+{
+  "title": "CLVR Kubernetes Course 1",
+  "description": "Intro to kubernetes",
+  "courses": [
+    {
+      "course_id": "grafana-scenario",
+      "title": "Using Grafana",
+      "description": "Using Grafana"
+    },
+    {
+      "course_id": "kubecost-scenario",
+      "title": "Kubecost",
+      "description": "Kubecost"
+    },
+    {
+      "course_id": "helm-scenario",
+      "title": "Using Helm",
+      "description": "helm package manager"
+    }
+  ]
+}
