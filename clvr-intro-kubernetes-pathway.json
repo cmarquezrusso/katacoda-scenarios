@@ -16,6 +16,11 @@
       "course_id": "helm-scenario",
       "title": "Using Helm",
       "description": "helm package manager"
+    },
+    {
+      "course_id": "testing-kubeview",
+      "title": "Kubeview",
+      "description": "Using kubeview"
     }
   ]
 }
