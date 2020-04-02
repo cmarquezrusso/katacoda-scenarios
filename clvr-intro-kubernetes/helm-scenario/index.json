@@ -1,16 +1,16 @@
 {
   "title": "Using Helm",
-  "description": "helm package manager",
+  "description": "On this scenario, you will learn how to install, upgrade, rollback and troubleshoot applications installed using Helm.",
   "difficulty": "Beginner",
-  "time": "20 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Installing Helm",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Upgrading Helm",
         "text": "step2.md"
       }
     ],
